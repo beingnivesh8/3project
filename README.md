@@ -6,9 +6,6 @@ ESSENTIAL LIBRARIES:
 import os, import json, import git, import pandas as pd, import plotly.express as px, import streamlit as st, from streamlit_option_menu import option_menu, import time, import mysql.connector and
 from sqlalchemy import create_engine.
 
-DATA SOURCE:
-The data utilized in this project predominantly consists of openly available datasets sourced from PhonePe - https://github.com/PhonePe/pulse
-
 WORK FLOW:
 The step by step procedures are shown below;
 
